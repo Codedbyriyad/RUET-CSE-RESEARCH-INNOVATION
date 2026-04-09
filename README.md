@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-→ Browser-এ যাও: **http://localhost:3000**
+→ Live Demo: https://researchfontend.netlify.app/**
 
 ---
 
